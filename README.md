@@ -21,7 +21,7 @@ It provides secure user authentication, authorization (JWT), and complete CRUD o
 ---
 
 ## 📦 Project Structure
-
+```
 src/main/java/com/blog/
 │
 ├── controller/ # REST API controllers
@@ -32,7 +32,7 @@ src/main/java/com/blog/
 ├── security/ # JWT & Spring Security setup
 ├── exception/ # Custom exceptions and global handler
 └── BlogApplication.java
-
+```
 
 
 ---
